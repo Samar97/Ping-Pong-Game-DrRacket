@@ -1,4 +1,4 @@
-# Image-Quilting-and-Texture-Synthesis
+# Ping Pong Game DrRacket
 
 ## Contributors
 
